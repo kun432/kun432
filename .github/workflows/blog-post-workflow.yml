@@ -13,8 +13,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+      - name: Pull in zenn to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://zenn.dev/kun432/feed?include_scraps=1"
           max_post_count: 10
+          template: "$date: [$title]($url)"
+          date_format: "yyyy-mm-dd"

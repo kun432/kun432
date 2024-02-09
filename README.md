@@ -11,10 +11,12 @@ LLM & RAG RULES!!!!!💪💪💪😤
 
 ### 📝 My Recent Posts
 
-Regularly, I write articles on https://zenn.dev/kun432
+Currently, I write articles on https://zenn.dev/kun432. 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+Also, my old blog is https://kun432.hatenablog.com.
 
 ### 🛠️ My Tools
 
