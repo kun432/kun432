@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://zenn.dev/kun432/feed?include_scraps=1"
           max_post_count: 10
-          template: "$date: [$title]($url)"
+          template: "- $date: [$title]($url)\n"
           date_format: "yyyy-mm-dd"
