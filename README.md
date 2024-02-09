@@ -7,11 +7,17 @@ Welcome! This is the my backyard of chaos and creation!
 - 👯 I’m looking to collaborate on LLM & RAG!!!
 - 💬 Ask me about LLM & RAG!!!!
 
-LLM & RAG RULES!!!!!💪💪💪😤
+**LLM & RAG RULES!!!!!💪💪💪😤**
 
-### 📝 My Recent Posts
+## 📝 My Recent Posts
 
-Currently, I write articles on https://zenn.dev/kun432. 
+Currently, I write on https://zenn.dev/kun432. 
+
+[![Likes](https://badgen.org/img/zenn/kun432/likes?style=plastic)](https://zenn.dev/kun432)
+[![Followers](https://badgen.org/img/zenn/kun432/followers?style=plastic)](https://zenn.dev/kun432)
+[![Articles](https://badgen.org/img/zenn/kun432/articles?style=plastic)](https://zenn.dev/kun432)
+[![Books](https://badgen.org/img/zenn/kun432/books?style=plastic)](https://zenn.dev/kun432?tab=books)
+[![Scraps](https://badgen.org/img/zenn/kun432/scraps?style=plastic)](https://zenn.dev/kun432?tab=scraps)
 
 <ul>
 <!-- BLOG-POST-LIST:START --><li>2024-02-06: <a href='https://zenn.dev/kun432/scraps/4bcfbfa1d7ec8b' target='_blank'>llama.cppでkarakuri-lm-70b-chat</a></li><li>2024-02-06: <a href='https://zenn.dev/kun432/scraps/20ca6509dddc58' target='_blank'>今更ながらPrompt flowを試してみる</a></li><li>2024-02-06: <a href='https://zenn.dev/kun432/scraps/bba6f3f3273911' target='_blank'>LlamaIndexのRAG CLIを試してみる</a></li><li>2024-02-05: <a href='https://zenn.dev/kun432/scraps/abe1c83e19a13d' target='_blank'>チャンクサイズについて</a></li><li>2024-02-05: <a href='https://zenn.dev/kun432/scraps/7dba8bc9b96002' target='_blank'>RAGatouilleを試す</a></li><li>2024-02-04: <a href='https://zenn.dev/kun432/scraps/e91c0d22ae1d99' target='_blank'>Langfuseを試す</a></li><li>2024-02-02: <a href='https://zenn.dev/kun432/scraps/ad5db0d16e044c' target='_blank'>gitのsparse-checkoutを試す</a></li><li>2024-02-02: <a href='https://zenn.dev/kun432/scraps/7d819e3b279e55' target='_blank'>Microsoft Presidioでセンシティブな文字列を検出・マスクする</a></li><li>2024-02-02: <a href='https://zenn.dev/kun432/scraps/3b1b00a7e4b3fd' target='_blank'>BAAI/bge-m3を試す＆LlamaIndexでインデックス作成してretrieval</a></li><li>2024-01-31: <a href='https://zenn.dev/kun432/scraps/0b5edd77f6b408' target='_blank'>LlamaIndexのLlama Packsを試してみる</a></li><!-- BLOG-POST-LIST:END -->
@@ -19,7 +25,7 @@ Currently, I write articles on https://zenn.dev/kun432.
 
 Also, my old blog is https://kun432.hatenablog.com.
 
-### 🛠️ My Tools
+## 🛠️ My Tools
 
 ![](https://skillicons.dev/icons?i=linux,aws,k8s,docker,terraform,ansible)
 ![](https://skillicons.dev/icons?i=py,perl,nodejs,bash)
@@ -34,7 +40,7 @@ Also, my old blog is https://kun432.hatenablog.com.
 ![NVIDIA](https://img.shields.io/badge/nvidia%20RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 👔 My Career
+## 👔 My Career
 
 - Freelance Engineer (2023/04 - Now)
 - Infrastructure Engineer & Team Manager (2019/06 - 2023/03)
