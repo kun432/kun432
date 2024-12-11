@@ -59,6 +59,8 @@ Also, my old blog is https://kun432.hatenablog.com.
 ## 👔 My Career
 
 - Freelance Engineer (2023/04 - Now)
+    - LLM Application/Infrastructure Engineer for LINE Chatbot
+    - LLM Application/Infrastructure Engineer for Voice Assitant Service
 - Infrastructure Engineer & Team Manager (2019/06 - 2023/03)
     - Infrastructure Design/Build/Administration for Marketing Platform
     - Infrastruture Team Manager
